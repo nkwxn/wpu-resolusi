@@ -1,0 +1,5 @@
+Halo pak, salam kenal nama saya Nic dari Jakarta
+
+Resolusi saya:
+- Membuat iOS app dengan menggunakan Swift kemudian diikuti dengan framework RxSwift
+- Bekerja di start-up
